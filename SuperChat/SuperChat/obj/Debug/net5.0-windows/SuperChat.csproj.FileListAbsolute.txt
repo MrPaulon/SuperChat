@@ -21,3 +21,5 @@ C:\Users\pauln\Documents\Github\Discord-Clone\SuperChat\SuperChat\obj\Debug\net5
 C:\Users\pauln\Documents\Github\Discord-Clone\SuperChat\SuperChat\obj\Debug\net5.0-windows\SuperChat.pdb
 C:\Users\pauln\Documents\Github\Discord-Clone\SuperChat\SuperChat\obj\Debug\net5.0-windows\SuperChat.genruntimeconfig.cache
 C:\Users\pauln\Documents\Github\Discord-Clone\SuperChat\SuperChat\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\pauln\Documents\Github\Discord-Clone\SuperChat\SuperChat\obj\Debug\net5.0-windows\Themes\ContactCard.baml
+C:\Users\pauln\Documents\Github\Discord-Clone\SuperChat\SuperChat\obj\Debug\net5.0-windows\App.baml
